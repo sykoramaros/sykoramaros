@@ -4,4 +4,4 @@
 - 🐥 I’m looking to collaborate on open-source projects and innovative software solutions.  
 - 🦅 How to reach me: [sykoramaros@gmail.com](mailto:sykoramaros@gmail.com)  
 - 🦁 Pronouns: He/Him  
-- 🐎 Fun fact: I love horseback riding and 🪕 playing the mandolin!  
+- 🐎 Fun fact: I love horseback riding and 🪕 playing the mandolin! [Happy Mandolin](https://open.spotify.com/artist/4wvv7SSwrDCRlSvT9B5dim)
