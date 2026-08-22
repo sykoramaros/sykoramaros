@@ -6,6 +6,10 @@
 - 🦁 Pronouns: He/Him  
 - 🐎 Fun fact: I love horseback riding and 🪕 playing the mandolin! [Happy Mandolin](https://open.spotify.com/artist/4wvv7SSwrDCRlSvT9B5dim)
 
+**ghchart version:**
 ![Contribution Graph](https://ghchart.rshah.org/sykoramaros)
+
+**React/shadcn version:**
+![Contribution Heatmap](./profile/react-heatmap.png)
 
 ![Stats card](./profile/react-card.png)
