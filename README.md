@@ -8,6 +8,6 @@
 
 ![Contribution Heatmap](./profile/react-heatmap.png)
 
-![Stats card](./profile/react-card.png)
+<img src="./profile/react-card.png" alt="Stats card" width="420" />
 
-![Radar chart of contribution types](./profile/radar-contrib.png)
+<img src="./profile/radar-contrib.png" alt="Radar chart of contribution types" width="420" />
