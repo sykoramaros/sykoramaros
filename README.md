@@ -9,3 +9,9 @@
 ![Contribution Heatmap](./profile/react-heatmap.png)
 
 ![Stats card](./profile/react-card.png)
+
+**Option A — contribution type breakdown:**
+![Radar chart of contribution types](./profile/radar-contrib.png)
+
+**Option B — languages across active repos:**
+![Radar chart of languages](./profile/radar-langs.png)
