@@ -1,5 +1,5 @@
 # 🙉 Hi, I’m @sykoramaros  
-- 🐿️ I’m interested in software development, self-hosted infrastructure, and AI-powered automation.  
+- 🐿️ I’m interested in software development and self-hosted infrastructure.  
 - 🦉 Full-stack developer — React, TypeScript, Payload CMS.  
 - 🐥 Always tinkering with new tools and self-hosted setups.  
 - 🦅 How to reach me: [sykoramaros@gmail.com](mailto:sykoramaros@gmail.com)  
