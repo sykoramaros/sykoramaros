@@ -8,4 +8,9 @@
 
 ![Contribution Heatmap](./profile/react-heatmap.png)
 
-<img src="./profile/react-card.png" alt="Stats card" width="300" /> <img src="./profile/radar-contrib.png" alt="Radar chart of contribution types" width="420" />
+<table>
+<tr>
+<td valign="top"><img src="./profile/react-card.png" alt="Stats card" width="300" /></td>
+<td valign="top"><img src="./profile/radar-contrib.png" alt="Radar chart of contribution types" width="420" /></td>
+</tr>
+</table>
