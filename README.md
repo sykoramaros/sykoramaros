@@ -6,8 +6,4 @@
 - 🦁 Pronouns: He/Him  
 - 🐎 Fun fact: I love horseback riding and 🪕 playing the mandolin! [Happy Mandolin](https://open.spotify.com/artist/4wvv7SSwrDCRlSvT9B5dim)
 
-![Contribution Heatmap](./profile/react-heatmap.png)
-
-<img src="./profile/react-card.png" alt="Stats card" width="300" align="left" />
-<img src="./profile/radar-contrib.png" alt="Radar chart of contribution types" width="420" align="left" />
-<br clear="both" />
+![GitHub activity: contribution heatmap, account stats and contribution-type breakdown](./profile/activity.svg)
