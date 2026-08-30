@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="521" viewBox="0 0 900 521" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="GitHub activity of @sykoramaros: contribution heatmap, this-year summary and contribution-type breakdown">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="529" viewBox="0 0 900 529" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="GitHub activity of @sykoramaros: contribution heatmap, streaks and contribution-type breakdown">
   <style>
     :root {
       --bg: #ffffff; --border: #e5e4e7; --fg: #08060d; --muted: #6b6375;
@@ -20,8 +20,6 @@
     .divider { stroke: var(--border); }
     .lvl0 { fill: var(--l0); } .lvl1 { fill: var(--l1); }
     .lvl2 { fill: var(--l2); } .lvl3 { fill: var(--l3); } .lvl4 { fill: var(--l4); }
-    .stat-value { fill: var(--fg); font-size: 20px; font-weight: 700; }
-    .stat-label { fill: var(--muted); font-size: 11px; }
     .streak-n { fill: var(--fg); font-size: 13px; font-weight: 700; }
     .streak-l { fill: var(--muted); font-size: 11px; }
     .grid { fill: none; stroke: var(--grid); stroke-width: 1; }
@@ -29,10 +27,10 @@
     .dot { fill: var(--primary); }
   </style>
 
-  <rect class="card-bg" x="1" y="1" width="898" height="519" rx="12" />
+  <rect class="card-bg" x="1" y="1" width="898" height="527" rx="12" />
 
   <text class="title" x="32" y="50">@sykoramaros</text>
-  <text class="subtitle" x="32" y="68">GitHub activity — last 12 months · 7392 contributions</text>
+  <text class="subtitle" x="32" y="68">GitHub activity — last 12 months · 7393 contributions</text>
 
   <text class="axis" x="112" y="94">Aug</text>
   <rect class="lvl0" x="112" y="176" width="11" height="11" rx="2"><title>2025-08-31: 0</title></rect>
@@ -411,31 +409,22 @@
   <rect class="lvl4" x="788" y="150" width="11" height="11" rx="2"><title>2026-08-28: 181</title></rect>
   <rect class="lvl4" x="788" y="163" width="11" height="11" rx="2"><title>2026-08-29: 74</title></rect>
   <rect class="lvl4" x="788" y="176" width="11" height="11" rx="2"><title>2026-08-30: 34</title></rect>
-  <rect class="lvl1" x="801" y="98" width="11" height="11" rx="2"><title>2026-08-31: 2</title></rect>
+  <rect class="lvl1" x="801" y="98" width="11" height="11" rx="2"><title>2026-08-31: 3</title></rect>
   <text class="axis" x="106" y="108" text-anchor="end">Mon</text>
   <text class="axis" x="106" y="134" text-anchor="end">Wed</text>
   <text class="axis" x="106" y="160" text-anchor="end">Fri</text>
   <text class="axis" x="106" y="186" text-anchor="end">Sun</text>
 
-  <text class="streak-n" x="36" y="211">107d</text><text class="streak-l" x="36" y="225">current streak</text>
-  <text class="streak-n" x="188" y="211">107d</text><text class="streak-l" x="188" y="225">longest streak</text>
-  <text class="streak-n" x="340" y="211">355</text><text class="streak-l" x="340" y="225">busiest · Jul 11</text>
-  <text class="axis" x="696" y="209">Less</text><rect class="lvl0" x="726" y="200" width="11" height="11" rx="2"/><rect class="lvl1" x="740" y="200" width="11" height="11" rx="2"/><rect class="lvl2" x="754" y="200" width="11" height="11" rx="2"/><rect class="lvl3" x="768" y="200" width="11" height="11" rx="2"/><rect class="lvl4" x="782" y="200" width="11" height="11" rx="2"/><text class="axis" x="800" y="209">More</text>
+  <text class="streak-n" x="36" y="213">107d</text><text class="streak-l" x="36" y="227">current streak</text>
+  <text class="streak-n" x="188" y="213">107d</text><text class="streak-l" x="188" y="227">longest streak</text>
+  <text class="streak-n" x="340" y="213">355</text><text class="streak-l" x="340" y="227">busiest · Jul 11</text>
+  <text class="axis" x="696" y="211">Less</text><rect class="lvl0" x="726" y="202" width="11" height="11" rx="2"/><rect class="lvl1" x="740" y="202" width="11" height="11" rx="2"/><rect class="lvl2" x="754" y="202" width="11" height="11" rx="2"/><rect class="lvl3" x="768" y="202" width="11" height="11" rx="2"/><rect class="lvl4" x="782" y="202" width="11" height="11" rx="2"/><text class="axis" x="800" y="211">More</text>
 
-  <line class="divider" x1="32" y1="249" x2="868" y2="249" />
+  <line class="divider" x1="32" y1="253" x2="868" y2="253" />
 
-  <text class="section" x="40" y="267">This year</text>
-  <text class="stat-value" x="40" y="331">176/366</text>
-    <text class="stat-label" x="40" y="348">active days</text>
-  <text class="stat-value" x="40" y="385">Aug</text>
-    <text class="stat-label" x="40" y="402">busiest month</text>
-  <text class="stat-value" x="40" y="439">~141</text>
-    <text class="stat-label" x="40" y="456">per week</text>
-
-  <text class="section" x="548" y="267">Contribution breakdown</text>
-  <polygon class="grid" points="640.0,362.0 661.9,377.9 653.5,403.6 626.5,403.6 618.1,377.9" /><polygon class="grid" points="640.0,339.0 683.7,370.8 667.0,422.2 613.0,422.2 596.3,370.8" /><polygon class="grid" points="640.0,316.0 705.6,363.7 680.6,440.8 599.4,440.8 574.4,363.7" /><polygon class="grid" points="640.0,293.0 727.5,356.6 694.1,459.4 585.9,459.4 552.5,356.6" />
-  <line class="grid" x1="640" y1="385" x2="640.0" y2="293.0" /><line class="grid" x1="640" y1="385" x2="727.5" y2="356.6" /><line class="grid" x1="640" y1="385" x2="694.1" y2="459.4" /><line class="grid" x1="640" y1="385" x2="585.9" y2="459.4" /><line class="grid" x1="640" y1="385" x2="552.5" y2="356.6" />
-  <polygon class="radar-area" points="640.0,293.0 688.2,369.3 640.0,385.0 640.0,385.0 607.2,374.3" />
-  <circle class="dot" cx="640.0" cy="293.0" r="3.5"><title>Commits: 7231</title></circle><circle class="dot" cx="688.2" cy="369.3" r="3.5"><title>Issues: 133</title></circle><circle class="dot" cx="640.0" cy="385.0" r="3.5"><title>Pull requests: 0</title></circle><circle class="dot" cx="640.0" cy="385.0" r="3.5"><title>PR reviews: 0</title></circle><circle class="dot" cx="607.2" cy="374.3" r="3.5"><title>Repos created: 27</title></circle>
-  <text class="axis" x="640.0" y="277.0" text-anchor="middle">Commits</text><text class="axis" x="740.8" y="350.2" text-anchor="start">Issues</text><text class="axis" x="702.3" y="480.8" text-anchor="start">Pull requests</text><text class="axis" x="577.7" y="480.8" text-anchor="end">PR reviews</text><text class="axis" x="539.2" y="350.2" text-anchor="end">Repos created</text>
+  <polygon class="grid" points="450.0,370.0 471.9,385.9 463.5,411.6 436.5,411.6 428.1,385.9" /><polygon class="grid" points="450.0,347.0 493.7,378.8 477.0,430.2 423.0,430.2 406.3,378.8" /><polygon class="grid" points="450.0,324.0 515.6,371.7 490.6,448.8 409.4,448.8 384.4,371.7" /><polygon class="grid" points="450.0,301.0 537.5,364.6 504.1,467.4 395.9,467.4 362.5,364.6" />
+  <line class="grid" x1="450" y1="393" x2="450.0" y2="301.0" /><line class="grid" x1="450" y1="393" x2="537.5" y2="364.6" /><line class="grid" x1="450" y1="393" x2="504.1" y2="467.4" /><line class="grid" x1="450" y1="393" x2="395.9" y2="467.4" /><line class="grid" x1="450" y1="393" x2="362.5" y2="364.6" />
+  <polygon class="radar-area" points="450.0,301.0 498.2,377.3 450.0,393.0 450.0,393.0 417.2,382.3" />
+  <circle class="dot" cx="450.0" cy="301.0" r="3.5"><title>Commits: 7232</title></circle><circle class="dot" cx="498.2" cy="377.3" r="3.5"><title>Issues: 133</title></circle><circle class="dot" cx="450.0" cy="393.0" r="3.5"><title>Pull requests: 0</title></circle><circle class="dot" cx="450.0" cy="393.0" r="3.5"><title>PR reviews: 0</title></circle><circle class="dot" cx="417.2" cy="382.3" r="3.5"><title>Repos created: 27</title></circle>
+  <text class="axis" x="450.0" y="285.0" text-anchor="middle">Commits</text><text class="axis" x="550.8" y="358.2" text-anchor="start">Issues</text><text class="axis" x="512.3" y="488.8" text-anchor="start">Pull requests</text><text class="axis" x="387.7" y="488.8" text-anchor="end">PR reviews</text><text class="axis" x="349.2" y="358.2" text-anchor="end">Repos created</text>
 </svg>
